@@ -1,14 +1,14 @@
 # 个人信息
 <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
       <h2>罗志兴</h2>
       <p>博士、副教授</p>
       <p>南京大学工程管理学院</p>
       <p>邮箱：luozx@nju.edu.cn</p>
-      <p>地址：江苏省南京师鼓楼区平仓5号</p>
+      <p>地址：江苏省南京市鼓楼区平仓5号</p>
     </td>
-    <td width="25%">
+    <td width="0%">
       <img src="/image/罗志兴照片.png" width="100%">     
     </td>
   </tr>

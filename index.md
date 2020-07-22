@@ -54,7 +54,8 @@
 1. **基于配送模式、约束和目标函数的问题建模**。
 2. **内置丰富的约束条件和目标函数**，支持丰富的业务场景，包括但不限于：
 
-  | Command | Description |
+  | 算法包 | 约束条件和目标函数 |
+  | --- | --- |
   | git status | List all new or modified files |
   | git diff | Show file differences that haven't been staged |
   

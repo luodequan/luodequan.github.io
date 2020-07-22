@@ -13,3 +13,4 @@
 # 代表作
 
 1. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim, A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants, INFORMS Journal on Computing, accepted, 2020.
+2. 1.	Lijun Wei, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A new branch-and-price-and-cut algorithm for one-dimensional bin packing problems. INFORMS Journal on Computing

@@ -8,7 +8,7 @@
       <p>邮箱：luozx@nju.edu.cn</p>
       <p>地址：江苏省南京市鼓楼区平仓5号</p>
     </td>
-    <td width="0%">
+    <td width="50%">
       <img src="/image/罗志兴照片.png" width="100%">     
     </td>
   </tr>

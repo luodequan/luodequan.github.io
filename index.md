@@ -18,3 +18,5 @@
 4. Zhenzhen Zhang, **Zhixing Luo\***, Hu Qin and Andrew Lim. Exact Algorithms for the Vehicle Routing Problem with Time Windows and Combinatorial Auction. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0835) 53 (2), 427-441, 2019.
 5. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.
 6. **Zhixing Luo**, Hu Qin, Wenbin Zhu and Andrew Lim, Branch-and-price-and-cut for the split-delivery vehicle routing problem with time windows and linear weight-related cost. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2015.0666) 51 (2), 668-687, 2016.
+
+# 企业项目

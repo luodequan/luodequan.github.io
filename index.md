@@ -31,7 +31,7 @@
 1. **运筹优化算法设计**，包括branch-and-price、branch-and-cut、Benders decomposition、Lagrangian relaxation、tabu search、adaptive large neighborhood search等。
 2. **组合优化问题**，包括车辆路径问题、装箱问题、网络规划问题、排产问题等。
 
-# 代表作
+# 学术研究
 
 1. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim. A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants. [INFORMS Journal on Computing](), accepted, 2020.
 2. Zhenzhen Zhang, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A Benders decomposition approach for the multi-vehicle production routing problem. [Transportation Science]()，accepted, 2020.
@@ -40,7 +40,9 @@
 5. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.
 6. **Zhixing Luo**, Hu Qin, Wenbin Zhu and Andrew Lim, Branch-and-price-and-cut for the split-delivery vehicle routing problem with time windows and linear weight-related cost. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2015.0666) 51 (2), 668-687, 2016.
 
-# 车辆路径问题和装箱问题算法包
+# 应用研究
+
+## 车辆路径问题和装箱问题算法包
 
 基于10多年关于车辆路径问题和三维装箱问题研究积累，于2018年获得[京东全球运筹优化挑战赛](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)冠军，具有以下特性：
 1. **基于配送模式、约束和目标函数的问题建模**。

@@ -53,10 +53,12 @@
 基于10多年关于车辆路径问题和三维装箱问题研究积累，于2018年获得[京东全球运筹优化挑战赛](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)冠军，具有以下特性：
 1. **基于配送模式、约束和目标函数的问题建模**。
 2. **内置丰富的约束条件和目标函数**，支持丰富的业务场景，包括但不限于：
+
   | Command | Description |
   | --- | --- |
   | git status | List all new or modified files |
   | git diff | Show file differences that haven't been staged |
+  
 3. **支持多线程并发**，既适用于计算时间要求苛刻的业务场景，也适用计算时间要求相对宽松但追求高质量解的业务场景。
 4. **支持二次开发**，只需要实现给定的接口就可以轻松处理新的约束和目标函数。
 

@@ -27,8 +27,8 @@
 
 目前求解器已经集成的约束条件包括：
 
- 1. [CapacityConstraint](CapacityConstraint.md)<sup>Ⓜ</sup>：容量约束。
- 2. [CapacityConstraintPD](CapacityConstraintPD.md)<sup>Ⓜ</sup>：取货送货问题（Pickup and Delivery）的容量约束。
+ 1. **CapacityConstraint**：容量约束。
+ 2. [CapacityConstraintPD]：取货送货问题（Pickup and Delivery）的容量约束。
  3. [CapacityConstraintSimPD](CapacityConstraintSimPD.md)<sup>Ⓜ</sup>：同时取货送货（Simultaneous Pickup and Delivery）问题的容量约束，即每一个节点同时需要取货和送货，取货的货物来自于仓库，要送走的货物则是送回仓库。
  4. [TimeWindowConstraint](TimeWindowConstraint.md)<sup>Ⓜ</sup>：时间窗约束。
  5. [MultiTimeWindowConstraint](MultiTimeWindowConstraint.md)<sup>Ⓜ</sup>：多时间窗约束，即允许一个节点同时有多个时间窗。

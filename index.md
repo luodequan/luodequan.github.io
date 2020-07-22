@@ -56,8 +56,8 @@
 
   | 算法包 | 约束条件和目标函数 |
   | --- | --- |
-  | git status | List all new or modified files |
-  | git diff | Show file differences that haven't been staged |
+  | 车辆路径 | 常规配送模式 |
+  | --- | 取货送货模式 |
   
 3. **支持多线程并发**，既适用于计算时间要求苛刻的业务场景，也适用计算时间要求相对宽松但追求高质量解的业务场景。
 4. **支持二次开发**，只需要实现给定的接口就可以轻松处理新的约束和目标函数。

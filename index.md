@@ -21,6 +21,7 @@
 # 工作经历
 2014.11 - 至今，[南京大学工程管理学院](https://sme.nju.edu.cn)，助理研究员、副教授
 
+
 # 研究兴趣
 
 1. **运筹优化算法设计**，包括branch-and-price、branch-and-cut、Benders decomposition、Lagrangian relaxation、tabu search、adaptive large neighborhood search等。

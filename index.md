@@ -42,6 +42,10 @@
 5. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.
 6. **Zhixing Luo**, Hu Qin, Wenbin Zhu and Andrew Lim, Branch-and-price-and-cut for the split-delivery vehicle routing problem with time windows and linear weight-related cost. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2015.0666) 51 (2), 668-687, 2016.
 
+## 科研项目
+
+1. 电子商务企业物流配送车辆调度研究，国家自然科学基金青年项目， 2016-2018, 主持人
+
 # 应用研究
 
 ## 车辆路径问题和装箱问题算法包

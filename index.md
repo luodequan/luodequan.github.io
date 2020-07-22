@@ -2,7 +2,7 @@
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>罗志兴</h1>
+      <h2>罗志兴</h2>
       <p>博士、副教授</p>
       <p>南京大学工程管理学院</p>
       <p>邮箱：luozx@nju.edu.cn</p>

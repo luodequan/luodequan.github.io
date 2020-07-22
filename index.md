@@ -55,7 +55,6 @@
 2. **内置丰富的约束条件和目标函数**，支持丰富的业务场景，包括但不限于：
 
   | Command | Description |
-  | --- | --- |
   | git status | List all new or modified files |
   | git diff | Show file differences that haven't been staged |
   

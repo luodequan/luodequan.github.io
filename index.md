@@ -14,5 +14,5 @@
 
 1. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim. A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants. INFORMS Journal on Computing, accepted, 2020.
 2. Lijun Wei, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A new branch-and-price-and-cut algorithm for one-dimensional bin packing problems. [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0867) 32 (2), 428-443, 2020.
-3. Zhenzhen Zhang, **Zhixing Luo\***, Hu Qin and Andrew Lim. [Exact Algorithms for the Vehicle Routing Problem with Time Windows and Combinatorial Auction](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0835). Transportation Science 53 (2), 427-441, 2019.
+3. Zhenzhen Zhang, **Zhixing Luo\***, Hu Qin and Andrew Lim. Exact Algorithms for the Vehicle Routing Problem with Time Windows and Combinatorial Auction. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0835) 53 (2), 427-441, 2019.
 4. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.

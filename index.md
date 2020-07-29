@@ -29,7 +29,7 @@
 # 研究兴趣
 
 1. **运筹优化算法设计**，包括branch-and-price、branch-and-cut、Benders decomposition、Lagrangian relaxation、tabu search、adaptive large neighborhood search等。
-2. **组合优化问题**，包括车辆路径问题、装箱问题、网络规划问题、排产问题等。
+2. **组合优化问题**，包括车辆路径问题、装箱问题、网络规划问题、排产问题、排班问题等。
 
 # 学术研究
 

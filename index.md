@@ -54,9 +54,9 @@
 - 大型连锁商超复杂车辆调度优化问题研究，国家自然科学基金面上项目，2022-2025， 主持人
 - 物流系统建模和算法设计，国家自然科学基金优秀青年项目，2023-2025，主持人
 
-# 应用研究
+# 社会服务
 
-## [车辆路径问题](https://wiki.mbalib.com/wiki/%E8%BD%A6%E8%BE%86%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98)和[装箱问题](https://baike.baidu.com/item/%E8%A3%85%E7%AE%B1%E9%97%AE%E9%A2%98)算法包
+## 开发[车辆路径问题](https://wiki.mbalib.com/wiki/%E8%BD%A6%E8%BE%86%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98)和[装箱问题](https://baike.baidu.com/item/%E8%A3%85%E7%AE%B1%E9%97%AE%E9%A2%98)算法包，服务广大企业
 
 ### 介绍
 

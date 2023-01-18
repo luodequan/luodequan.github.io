@@ -35,6 +35,7 @@
 
 ## 代表论文
 
+1. Sheng Liu and **Zhixing Luo**. On-demand delivery from stores: dynamic dispatching and routing with random demand. [Manufacturing & Service Operations Management](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1171), forthcoming, 2022.
 1. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim. A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants. [INFORMS Journal on Computing](), accepted, 2020.
 2. Zhenzhen Zhang, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A Benders decomposition approach for the multi-vehicle production routing problem. [Transportation Science]()，accepted, 2020.
 3. Lijun Wei, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A new branch-and-price-and-cut algorithm for one-dimensional bin packing problems. [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0867) 32 (2), 428-443, 2020.

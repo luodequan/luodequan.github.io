@@ -56,7 +56,7 @@
 
 # 社会服务
 
-### 开发[车辆路径问题](https://wiki.mbalib.com/wiki/%E8%BD%A6%E8%BE%86%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98)和[装箱问题](https://baike.baidu.com/item/%E8%A3%85%E7%AE%B1%E9%97%AE%E9%A2%98)算法包，服务广大企业
+1. 开发[车辆路径问题](https://wiki.mbalib.com/wiki/%E8%BD%A6%E8%BE%86%E8%B7%AF%E5%BE%84%E9%97%AE%E9%A2%98)和[装箱问题](https://baike.baidu.com/item/%E8%A3%85%E7%AE%B1%E9%97%AE%E9%A2%98)算法包，服务广大企业
 
 该算法包基于10多年关于车辆路径问题和三维装箱问题研究积累，于2018年获得[京东全球运筹优化挑战赛](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)冠军，具有以下特性：
 1. **基于配送模式、约束和目标函数的问题建模**。

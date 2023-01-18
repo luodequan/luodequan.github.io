@@ -67,11 +67,11 @@
   
   <table border="0">
   <tr>
-    <td width="75%">
+    <td width="50%">
        其中，与华为项目获得华为诺亚方舟实验室优秀高校合作项目奖
     </td>
-    <td width="25%">
-      <img src="/image/华为奖.png" width="40%">
+    <td width="50%">
+      <img src="/image/华为奖.png" width="60%">
     </td>
   </tr>
 </table>

@@ -16,8 +16,8 @@
 
 # 获得荣誉
 
-- 获得2018年京东[全球运筹优化挑战赛冠军](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)
-- 入选2019-2021年第五届中国科协青年人才托举工程
+- 2018，获得京东[全球运筹优化挑战赛](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)冠军
+- 2019，入选年第五届中国科协青年人才托举工程
 
 # 教育背景
 - 2010.9 - 2014.7，香港城市大学商学院，博士

@@ -68,7 +68,7 @@
   <table border="0">
   <tr>
     <td width="50%">
-       获得<b>华为诺亚方舟实验室优秀高校合作项目奖<\b>
+       获得<b>华为诺亚方舟实验室优秀高校合作项目奖
     </td>
     <td width="50%">
       <img src="/image/华为奖.png" width="60%">

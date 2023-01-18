@@ -36,12 +36,13 @@
 ## 代表论文
 
 1. Sheng Liu and **Zhixing Luo**. On-demand delivery from stores: dynamic dispatching and routing with random demand. [Manufacturing & Service Operations Management](https://pubsonline.informs.org/doi/abs/10.1287/msom.2022.1171), forthcoming, 2022.
-1. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim. A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants. [INFORMS Journal on Computing](), accepted, 2020.
-2. Zhenzhen Zhang, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A Benders decomposition approach for the multi-vehicle production routing problem. [Transportation Science]()，accepted, 2020.
-3. Lijun Wei, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A new branch-and-price-and-cut algorithm for one-dimensional bin packing problems. [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0867) 32 (2), 428-443, 2020.
-4. Zhenzhen Zhang, **Zhixing Luo\***, Hu Qin and Andrew Lim. Exact Algorithms for the Vehicle Routing Problem with Time Windows and Combinatorial Auction. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0835) 53 (2), 427-441, 2019.
-5. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.
-6. **Zhixing Luo**, Hu Qin, Wenbin Zhu and Andrew Lim, Branch-and-price-and-cut for the split-delivery vehicle routing problem with time windows and linear weight-related cost. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2015.0666) 51 (2), 668-687, 2016.
+2. Jiliu Li, **Zhixing Luo**, Roberto Baldacci, Hu Qin andZhou Xu. A new exact algorithm for single-commodity vehicle routing with split pickups and deliveries. [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2022.1249), forthcoming, 2022.
+3. **Zhixing Luo**, Hu Qin, T.C. Cheng, Qinghua Hu and Andrew Lim. A branch-and-price-and-cut algorithm for the cable routing problem in solar power plants. [INFORMS Journal on Computing](), accepted, 2020.
+4. Zhenzhen Zhang, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A Benders decomposition approach for the multi-vehicle production routing problem. [Transportation Science]()，accepted, 2020.
+5. Lijun Wei, **Zhixing Luo\***, Roberto Baldacci and Andrew Lim. A new branch-and-price-and-cut algorithm for one-dimensional bin packing problems. [INFORMS Journal on Computing](https://pubsonline.informs.org/doi/abs/10.1287/ijoc.2018.0867) 32 (2), 428-443, 2020.
+6. Zhenzhen Zhang, **Zhixing Luo\***, Hu Qin and Andrew Lim. Exact Algorithms for the Vehicle Routing Problem with Time Windows and Combinatorial Auction. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2018.0835) 53 (2), 427-441, 2019.
+7. **Zhixing Luo\***,  Mengyang Liu and Andrew Lim. A two-phase branch-and-price-and-cut for a dial-a-ride problem in patient transportation. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2017.0772) 53 (1), 113-130, 2019.
+8. **Zhixing Luo**, Hu Qin, Wenbin Zhu and Andrew Lim, Branch-and-price-and-cut for the split-delivery vehicle routing problem with time windows and linear weight-related cost. [Transportation Science](https://pubsonline.informs.org/doi/abs/10.1287/trsc.2015.0666) 51 (2), 668-687, 2016.
 
 关于本人全部论文请访问[Google Scholar](https://scholar.google.com.hk/citations?user=7t1AjR8AAAAJ&hl=en)。
 

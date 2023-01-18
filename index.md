@@ -16,6 +16,7 @@
 
 # 获得荣誉
 
+- 获得2018年京东[全球运筹优化挑战赛冠军](https://jdata.jd.com/html/detail.html?tab=myteam&id=5)
 - 入选2019-2021年第五届中国科协青年人才托举工程
 
 # 教育背景
